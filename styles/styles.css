@@ -46,3 +46,23 @@ h1 {
     height: 80px;
     border: 3px solid;
 }
+
+.first-color {
+    background-color: #EA9999;
+}
+
+.second-color {
+    background-color: #FACB9C;
+}
+
+.third-color {
+    background-color: #FFE59A;
+}
+
+.fourth-color {
+    background-color: #B6D7A8;
+}
+
+.fifth-color {
+    background-color: #A4C4CA;
+}
