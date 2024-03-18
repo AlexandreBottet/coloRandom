@@ -12,3 +12,37 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #E7F1F1;
 }
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2rem;
+    font-family: 'Poppins-Black';
+    padding: 4rem 0;
+}
+
+/* COLOR PALETTE */
+
+.color-palette {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.color-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.color-item__square {
+    width: 80px;
+    height: 80px;
+    border: 3px solid;
+}
