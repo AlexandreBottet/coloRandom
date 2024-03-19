@@ -66,3 +66,19 @@ h1 {
 .fifth-color {
     background-color: #A4C4CA;
 }
+
+/* BUTTONS */
+
+.buttons {
+    margin-top: 4rem;
+}
+
+.new-palette {
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    padding: 0.5rem 3rem;
+    border: none;
+    border-radius: 0 3rem 0 3rem;
+    cursor: pointer;
+}
